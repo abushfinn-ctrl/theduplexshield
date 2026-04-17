@@ -21,5 +21,4 @@
 include:
   - board: xiao_ble
     shield: theduplex_left
-  - board: xiao_ble
-    shield: theduplex_right
+
